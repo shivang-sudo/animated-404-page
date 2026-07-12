@@ -22,12 +22,11 @@ https://shivang-sudo.github.io/animated-404-page/
 
 ## 📸 Preview
 
-> Replace the image below with your own project screenshot.
+<p align="center">
+<img src="./preview.png" width="900">
+</p>
 
-```md
-![Preview](preview.png)
 
-```
 
 ---
 
