@@ -15,7 +15,7 @@ Smooth animations, dynamic lighting effects, and an animated Yeti character crea
 > Enable **GitHub Pages** and add your live URL here.
 
 ```text
-https://shivang-sudo.github.io/new-creation-404-animated-page/
+https://shivang-sudo.github.io/animated-404-page/
 ```
 
 ---
@@ -25,7 +25,8 @@ https://shivang-sudo.github.io/new-creation-404-animated-page/
 > Replace the image below with your own project screenshot.
 
 ```md
-![Project Preview](preview.png)
+<img width="1460" height="763" alt="Screenshot 2026-07-12 at 7 44 16 PM" src="https://github.com/user-attachments/assets/715b3d4c-22ca-46d4-9df1-f3418cb6ebd8" />
+
 ```
 
 ---
